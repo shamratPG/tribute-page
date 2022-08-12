@@ -27,6 +27,9 @@ a {
     background: #dadce0;
     border-radius: 10px;
     padding: 3px 0;
+    box-shadow: 2px 11px 31px -4px rgba(99, 99, 99, 0.75);
+    -webkit-box-shadow: 2px 11px 31px -4px rgba(99, 99, 99, 0.75);
+    -moz-box-shadow: 2px 11px 31px -4px rgba(99, 99, 99, 0.75);
 }
 
 #header {
